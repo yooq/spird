@@ -1,5 +1,5 @@
 from selenium import webdriver
-import time
+
 
 '''网页切换'''
 driver =webdriver.Chrome()
